@@ -2,3 +2,5 @@
 Issue tracker using web stack
 
 view in netlify     https://sad-lovelace-ce5ce0.netlify.app
+
+front-end only, needs back-end, wip
